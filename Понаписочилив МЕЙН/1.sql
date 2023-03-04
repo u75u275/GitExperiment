@@ -1,0 +1,1 @@
+select * from dealdoctransaction ddt where ddt.documentid=121627198
